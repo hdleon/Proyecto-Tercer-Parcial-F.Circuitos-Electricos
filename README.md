@@ -10,13 +10,13 @@ Henrry Leon
 
 ## Objetivo de la practica
 
-Realizar un circuito  
+Realizar un circuito con el uso del circuito integrado LM386 que funcione como un mini amplificador de audio de forma casera.
 
 ## Objetivos especifico
 
 - Analizar el funcionamiento del circuito 
 
--	Armar experimentalmente el circuito analizado.
+-	Armar experimentalmente el circuito analizado y aprender de las funciones de los nuevos componentes utilizados.
 
 ## Marco Teorico
 
@@ -99,3 +99,6 @@ Este circuito integrado puede ser alimentado con voltajes que van de los 5 hasta
 https://youtu.be/Xrey1Yituq4
 
 ## Conclusiones
+
+- En conclusion el circuito integrado LM386 es un amplificador de audio de bajo voltaje y bajo consumo de energía, que se utiliza para mejorar la calidad y el volumen del sonido en dispositivos de audio portátiles que de otra manera no tendrían suficiente potencia de salida. En resumen, el LM386 sirve para amplificar señales de audio en baja potencia de manera compacta y económica.
+
