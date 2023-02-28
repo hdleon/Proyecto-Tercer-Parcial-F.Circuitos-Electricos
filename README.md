@@ -26,6 +26,10 @@ Partes del circuito integrado LM386:
 
 ![image](https://user-images.githubusercontent.com/116777118/221925671-a2e2a500-f0e8-4797-92d5-3d2e281cc082.png)
 
+Diagrama esquemático interno del LM386:
+
+![image](https://user-images.githubusercontent.com/116777118/221926236-1a1272e7-7251-4d56-b225-1fed99f9432c.png)
+
 ##  Material o Equipo
 
 ![image](https://user-images.githubusercontent.com/116777118/221866528-f70d779f-5055-4a33-8ece-3949494cb30a.png)
