@@ -22,6 +22,10 @@ Realizar un circuito con el uso del circuito integrado LM386 que funcione como u
 
 ![Mapa mental](https://user-images.githubusercontent.com/116777118/221868641-ef493e15-4d14-4243-969c-6b617a4fb7ec.jpeg)
 
+Partes del circuito integrado LM386:
+
+![image](https://user-images.githubusercontent.com/116777118/221925671-a2e2a500-f0e8-4797-92d5-3d2e281cc082.png)
+
 ##  Material o Equipo
 
 ![image](https://user-images.githubusercontent.com/116777118/221866528-f70d779f-5055-4a33-8ece-3949494cb30a.png)
